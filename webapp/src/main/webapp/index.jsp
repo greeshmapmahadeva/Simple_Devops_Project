@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> Simple Devops Project</h1>
+<h2> By Greeshma P M</h2>
+<h2> This includes use of jenkins, github, docker and ansible</h2>
